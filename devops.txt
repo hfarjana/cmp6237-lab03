@@ -1,1 +1,1 @@
-i am begining to understand git!
+ I am on my way to passing the CMP6237 module
